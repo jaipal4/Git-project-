@@ -1,4 +1,4 @@
-Sample Code for GUI
+//Sample Code for GUI
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
